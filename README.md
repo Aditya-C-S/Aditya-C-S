@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-C-S
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently experienced in python and c-programming
 - 💞️ I’m looking to collaborate on many open-source projects
 - 📫 How to reach me - @adithyacs27@gmail.com
 
