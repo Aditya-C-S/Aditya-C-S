@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently experienced in python and c-programming
 - 💞️ I’m looking to collaborate on many open-source projects
-- 📫 How to reach me - @adithyacs27@gmail.com
+- 📫 How to reach me - @adityacs126@gmail.com
 
 <!---
 Aditya-C-S/Aditya-C-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
